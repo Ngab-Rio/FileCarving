@@ -1,0 +1,10 @@
+Jadi pertama-tama kita harus membenarkan header dari repl1_fixed dan repl2_fixed, di kasus ini yang diganti sama, yaitu pada byte ke 12 yang awalnya
+
+89 50 4E 47  0D 0A 1A 0A   00 00 00 00 =======>> 89 50 4E 47  0D 0A 1A 0A   00 00 00 0D
+
+berlaku di kedua file pada kasus ini
+
+kemudian kita gunakan tools dari github https://github.com/frankthetank-music/Acropalypse-Multi-Tool
+
+kita jalankan gui.py nya, kemudian kita pilih restoring tool, pilih gambar yang tadi
+kemudian kita pilih opsi windows 11 snipping tool width dan height 1920 lalu acropalypse (berlaku di kedua file)
