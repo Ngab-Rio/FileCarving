@@ -1,0 +1,1 @@
+pertama-tama kita harus membenarkan file header foto ini, lalu kita gunakan tools stegsolve dan geser rgb nya, selanjutnya kita mendapatkan password untuk mengekstrak foto tersebut
